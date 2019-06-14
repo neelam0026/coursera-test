@@ -1,0 +1,7 @@
+1. npx create-react-app my-app
+2. cd my-app
+3. npm start
+4. npm run build
+
+npm init react-app my-app  // it is for create app for react
+
